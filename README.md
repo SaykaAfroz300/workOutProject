@@ -40,6 +40,13 @@ npm run dev
 
 Then open [http://localhost:3000](http://localhost:3000) in your browser.
 
+##Vercel Live Link:
+https://work-out-project.vercel.app/
+
+##github live link:
+
+
+
 ## API Used
 
 - All workouts: `https://api.abcz.workers.dev/api/fitlog`
