@@ -44,6 +44,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 https://work-out-project.vercel.app/
 
 ##github live link:
+ https://saykaafroz300.github.io/workOutProject/
 
 
 
